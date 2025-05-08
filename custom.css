@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .hero {
+    padding: 4rem 0;
+  }
+  .illustration {
+    max-width: 100%;
+    height: auto;
+  }
+  .text-primary{
+    text-decoration-color: #0da72e;
+  }
+  .footer {
+    background-color: #130e36;
+    color: white;
+    padding: 2rem 0;
+  }
+  .footer a {
+    color: white;
+    text-decoration: none;
+  }
+  .btn-primary {
+    background-color: #3c82f6;
+    border: none;
+  }
+ 
